@@ -1,4 +1,4 @@
-# matcha-flavoured backport
+# Matcha Flavoured Backport
 ## What is this??
 This is a backport of version 1.12.2 of the minecraft 26.2 datapack Matcha Flavoured by Klei_Wright, the original of which can be found here: https://github.com/kleiwright/matcha-flavoured. If you have somehow managed to find this with no idea what Matcha Flavoured is, go watch Klei's video on it here: https://www.youtube.com/watch?v=zyRH8W58fRI.
 
