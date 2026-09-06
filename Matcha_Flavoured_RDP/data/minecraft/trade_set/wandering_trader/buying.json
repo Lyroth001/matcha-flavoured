@@ -1,6 +1,0 @@
-{
-  "amount": 4.0,
-  "random_sequence": "minecraft:trade_set/wandering_trader/buying",
-  "trades": "#matcha:wandering_trader/asylum_seekers",
-  "allow_duplicates": true
-}

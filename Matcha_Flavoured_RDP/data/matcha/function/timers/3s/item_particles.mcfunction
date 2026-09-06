@@ -1,1 +1,0 @@
-execute at @e[type=item,tag=particle_checked,tag=particle_nether_star] run particle flash{color:[1.000,1.00,1.000,1.00]} ~ ~.4 ~ 0 0 0 0 0 normal
