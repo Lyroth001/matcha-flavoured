@@ -12,7 +12,7 @@ Clone or download the repo (big green button that says code, download as zip)
 3. Put that in your worlds datapacks folder 
 
 ## Changes from the original
-This is an in-progress work as I play through the datapack with my custom modpack, and as such there is **absolutely no guarantee of stability or bug freeness**. In that spirit, there have been a handfull of changes made due to the backport that cause mechanical changes, as I have been unable to figure out a fix without this. They are listed here, alongside any relevant instructions for mitigating the change. If you do find a bug, please raise an issue on the github here and I can look into it
+This is an in-progress work as I play through the datapack with my custom modpack, and as such there is **absolutely no guarantee of stability or bug freeness**. In that spirit, there have been a handful of changes made due to the backport that cause mechanical changes, as I have been unable to figure out a fix without this. They are listed here, alongside any relevant instructions for mitigating the change. If you do find a bug, please raise an issue on the github here and I can look into it
 #### 1. Mobs will not stop spawning after killing the dragon
 I have ran into the issue where gamerule_safe_surface procs too early after killing any mob, and my attempts to fix this have so far failed. As such, the function that checks this gamerule has been disabled. If you wish to reenable this, uncomment the 2nd line of `data/main/function/mechanic/spawn_mechanic/ticking.mcfunction`
 
